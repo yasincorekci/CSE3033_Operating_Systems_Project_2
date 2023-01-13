@@ -1,2 +1,15 @@
 # CSE3033_Operating_Systems_Project_2
-✓ Project Team Members: •Busenur Yılmaz •Yasin Çörekci •Ertan Karaoğlu
+•This repo contains our term project of CSE3033F'22.
+<img src="/icons/man.png" width="150">
+
+<br>
+
+### **Group Members**
+<br>
+
+   | Name & Surname  |
+|---|
+|**Yasin Çörekci**|
+|**Ertan Karaoğlu**|
+|**Busenur Yılmaz**|
+
